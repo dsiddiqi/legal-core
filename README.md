@@ -13,7 +13,7 @@ I focus on:
 
 
   ## Featured Projects 
-    -Legal Reasoning Eval Datasets 
+    -Legal Reasoning Eval Datasets [https://github.com/dsiddiqi/legal-evals/blob/legal-eval-datasets/legal.eval.jsonl]
     -Legal Assistant App 
     -Contract AI Risk Analysis Bot 
 
