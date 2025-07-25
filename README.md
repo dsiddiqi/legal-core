@@ -3,8 +3,11 @@ I'm a former Tax and Corporate M&A Lawyer and current Legal Data Analyst buildin
 
 I focus on:  
   -Building legal evaluation datasets for LLMs 
+  
   -Testing model safety and accuracy in legal tasks 
+  
   -Creating legal AI apps 
+  
   -Writing about legal compliance, data privacy, AI risk and AI arbitrage opporunities from a legal perspective
 
 
