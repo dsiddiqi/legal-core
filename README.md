@@ -1,2 +1,15 @@
-# legal-evals
-Legal evaluations and whitepapers focused on AI and Data Privacy from a legal perspective
+# Hi, I'm Daaneyal Siddiqi
+I'm a former Tax and Corporate M&A Lawyer and current Legal Data Analyst building and exploring the future of law + AI. 
+
+I focus on:  
+  -Building legal evaluation datasets for LLMs 
+  -Testing model safety and accuracy in legal tasks 
+  -Creating legal AI apps 
+  -Writing about legal compliance, data privacy, AI risk and AI arbitrage opporunities from a legal perspective
+
+
+  ## Featured Projects 
+    -Legal Reasoning Eval Datasets 
+    -Legal Assistant App 
+    -Contract AI Risk Analysis Bot 
+
