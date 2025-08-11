@@ -1,2 +1,2 @@
 # legal-evals
-Legal evaluations and whitepapers focused on AI and Data Privacy from a legal perspective
+All articles and thoughts on Legal AI are posted on my Substack: https://daaneyalsiddiqi.substack.com/
