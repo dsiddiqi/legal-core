@@ -7,9 +7,9 @@ I focus on:
   
   -Testing model safety and accuracy in legal tasks 
   
-  -Creating legal AI apps 
+  -Creating legal AI projects and apps
   
-  -Writing about legal compliance, data privacy, AI risk and AI arbitrage opporunities from a legal perspective
+  -Writing about compliance, data privacy, AI risk and AI arbitrage opporunities from a legal perspective
 
 
   ## Featured Projects 
