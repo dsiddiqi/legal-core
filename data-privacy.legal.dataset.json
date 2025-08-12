@@ -1,0 +1,127 @@
+[
+  {
+    "Convo_ID": "DP-1",
+    "Question": "Is inferred data from AI models subject to GDPR?",
+    "Answer": "Yes. Inferred data\u2014such as behavioral profiles or psychometric assessments\u2014is subject to the GDPR if it relates to an identifiable person, even if the inference was generated algorithmically.",
+    "Key_Legal_Basis": [
+      "GDPR Article 4(1)",
+      "Recital 30",
+      "Recital 71"
+    ],
+    "Sources": [
+      "EDPB Guidelines on Profiling and Automated Decision-Making (WP251rev.01)"
+    ]
+  },
+  {
+    "Convo_ID": "DP-2",
+    "Question": "Are AI-generated decisions considered \u201cautomated decision-making\u201d under GDPR?",
+    "Answer": "Yes. If an AI system makes decisions without human intervention and the decisions significantly affect individuals, Article 22 applies.",
+    "Key_Legal_Basis": [
+      "GDPR Article 22(1)",
+      "Article 22(3)"
+    ],
+    "Sources": [
+      "https://gdpr-info.eu/art-22-gdpr/"
+    ]
+  },
+  {
+    "Convo_ID": "DP-3",
+    "Question": "Must an AI system\u2019s training data be disclosed to users?",
+    "Answer": "Not globally, but under the GDPR and the EU AI Act, disclosure may be required when personal data is used.",
+    "Key_Legal_Basis": [
+      "GDPR Articles 13\u201315",
+      "EU AI Act Title III"
+    ],
+    "Sources": [
+      "https://gdpr-info.eu/art-13-gdpr/",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206"
+    ]
+  },
+  {
+    "Convo_ID": "DP-4",
+    "Question": "Can biometric data be used in AI systems?",
+    "Answer": "Yes, but with strict limitations. Biometric data is categorized as special category personal data under Article 9.",
+    "Key_Legal_Basis": [
+      "GDPR Article 9",
+      "BIPA (Illinois)"
+    ],
+    "Sources": [
+      "https://gdpr-info.eu/art-9-gdpr/",
+      "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004"
+    ]
+  },
+  {
+    "Convo_ID": "DP-5",
+    "Question": "Does using anonymized or pseudonymized data in machine learning pipelines fully exempt us from data subject rights under GDPR Articles 15\u201322?",
+    "Answer": "Anonymized data is not subject to GDPR, but pseudonymized data remains personal data and is subject to all data subject rights.",
+    "Key_Legal_Basis": [
+      "GDPR Article 4(5)",
+      "Recital 26"
+    ],
+    "Sources": [
+      "https://gdpr-info.eu/recitals/no-26/"
+    ]
+  },
+  {
+    "Convo_ID": "DP-6",
+    "Question": "How should we reconcile conflicting data retention requirements between the GDPR and U.S. litigation hold obligations?",
+    "Answer": "Use segregated archives for held data, justify with legitimate interest under Article 6(1)(f), and perform DPIAs.",
+    "Key_Legal_Basis": [
+      "GDPR Article 5",
+      "Article 6(1)(f)"
+    ],
+    "Sources": [
+      "https://edpb.europa.eu/our-work-tools/our-documents/publication-type/guidelines_en"
+    ]
+  },
+  {
+    "Convo_ID": "DP-8",
+    "Question": "What constitutes \u201clegitimate interest\u201d for profiling under GDPR Recital 47 in the context of AI-based user behavior prediction?",
+    "Answer": "Profiling must be non-intrusive, transparent, with a Legitimate Interest Assessment (LIA) and user opt-out.",
+    "Key_Legal_Basis": [
+      "GDPR Recital 47",
+      "Article 21"
+    ],
+    "Sources": [
+      "https://gdpr-info.eu/recitals/no-47/"
+    ]
+  },
+  {
+    "Convo_ID": "DP-9",
+    "Question": "How can a multinational entity implement a single AI system that satisfies both the GDPR's Article 22 prohibition on automated decision-making and U.S. anti-discrimination laws like the FCRA?",
+    "Answer": "Implement human-in-the-loop review, provide adverse action notices under FCRA, and maintain explainability and audit trails.",
+    "Key_Legal_Basis": [
+      "GDPR Article 22",
+      "FCRA (U.S.)"
+    ],
+    "Sources": [
+      "https://gdpr-info.eu/art-22-gdpr/",
+      "https://www.ftc.gov/legal-library/browse/statutes/fair-credit-reporting-act"
+    ]
+  },
+  {
+    "Convo_ID": "DP-10",
+    "Question": "Do U.S. state privacy laws (e.g., CPRA, Colorado Privacy Act) require companies to rearchitect their global data governance programs, or can a GDPR-compliant approach serve as a common framework?",
+    "Answer": "GDPR provides a strong foundation, but U.S. laws have stricter opt-out mechanisms, sensitive data rules, and different enforcement.",
+    "Key_Legal_Basis": [
+      "CPRA",
+      "Colorado Privacy Act"
+    ],
+    "Sources": [
+      "https://cppa.ca.gov/regulations/",
+      "https://coag.gov/resources/colorado-privacy-act/"
+    ]
+  },
+  {
+    "Convo_ID": "DP-11",
+    "Question": "What legal liability arises if a vendor's AI model inadvertently ingests personal data in violation of contractual data use limits (e.g., SCCs or a DPA)?",
+    "Answer": "Breach of contract, regulatory non-compliance, invalidation of SCCs, and joint liability may arise.",
+    "Key_Legal_Basis": [
+      "GDPR Article 28(3)",
+      "Standard Contractual Clauses (SCCs)"
+    ],
+    "Sources": [
+      "https://gdpr-info.eu/art-28-gdpr/"
+    ]
+  }
+]
